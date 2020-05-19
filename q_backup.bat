@@ -1,1 +1,1 @@
-xcopy /S /C /Y "%appdata%\DarkSoulsIII\*.sl2" "ë°±ì—…" > nul
+xcopy /S /C /Y "%appdata%\DarkSoulsIII\*.sl2" "¹é¾÷" > nul
