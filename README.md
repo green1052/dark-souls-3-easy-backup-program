@@ -5,4 +5,4 @@
 
 # 사용법
 backup.bat 실행시 백업 복구 삭제 사용 가능
-q_backup.bat 실행시 백업만 됨
+q_backup.bat 실행시 백업이 빠르게 됩니다.
