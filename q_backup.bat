@@ -1,0 +1,1 @@
+xcopy /S /C /Y "%appdata%\DarkSoulsIII\*.sl2" "백업" > nul
