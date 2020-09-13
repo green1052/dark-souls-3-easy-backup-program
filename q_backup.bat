@@ -1,5 +1,5 @@
-if not exist "¹é¾÷" (
-	mkdir "¹é¾÷"
+if not exist "ë°±ì—…" (
+	mkdir "ë°±ì—…"
 )
 
-xcopy /S /C /Y "%appdata%\DarkSoulsIII\*.sl2" "¹é¾÷"
+xcopy /S /C /Y "%appdata%\DarkSoulsIII\*.sl2" "ë°±ì—…"
